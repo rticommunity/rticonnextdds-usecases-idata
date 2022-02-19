@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!DOCTYPE workspace SYSTEM "C:\IData3.5\Bin\IData_DOC.dtd">
+<workspace>
+ <project name="IDataRTI" default="yes">
+  <file name=".\IDataRTI.mak" />
+  <file name=".\IDataRTI.c" />
+  <file name=".\IDataRTI.IDL_XML" />
+ </project>
+ <file name=".\IDataRTI.COL_XML" />
+</workspace>

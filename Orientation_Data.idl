@@ -1,0 +1,9 @@
+module Connext {
+
+   struct Orientation
+   {
+      float Pitch_deg;
+      float Roll_deg;
+   };
+};
+

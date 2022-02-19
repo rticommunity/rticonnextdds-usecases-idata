@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!DOCTYPE colortable SYSTEM "C:\IData3.5\Bin\IData_DOC.dtd">
+<colortable>
+ <colorentry index="0" name="Black" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="1" name="Blue" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="1.0000000" bbin="0x3F800000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="2" name="Green" r="0.0000000" rbin="0x00000000" g="1.0000000" gbin="0x3F800000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="3" name="Cyan" r="0.0000000" rbin="0x00000000" g="1.0000000" gbin="0x3F800000" b="1.0000000" bbin="0x3F800000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="4" name="Red" r="1.0000000" rbin="0x3F800000" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="5" name="Magenta" r="1.0000000" rbin="0x3F800000" g="0.0000000" gbin="0x00000000" b="1.0000000" bbin="0x3F800000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="6" name="Yellow" r="1.0000000" rbin="0x3F800000" g="1.0000000" gbin="0x3F800000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="7" name="White" r="1.0000000" rbin="0x3F800000" g="1.0000000" gbin="0x3F800000" b="1.0000000" bbin="0x3F800000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="8" name="Grey1" r="0.9000000" rbin="0x3F666666" g="0.9000000" gbin="0x3F666666" b="0.9000000" bbin="0x3F666666" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="9" name="Grey2" r="0.8000000" rbin="0x3F4CCCCD" g="0.8000000" gbin="0x3F4CCCCD" b="0.8000000" bbin="0x3F4CCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="10" name="Grey3" r="0.7000000" rbin="0x3F333333" g="0.7000000" gbin="0x3F333333" b="0.7000000" bbin="0x3F333333" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="11" name="Grey4" r="0.6000000" rbin="0x3F19999A" g="0.6000000" gbin="0x3F19999A" b="0.6000000" bbin="0x3F19999A" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="12" name="Grey5" r="0.5000000" rbin="0x3F000000" g="0.5000000" gbin="0x3F000000" b="0.5000000" bbin="0x3F000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="13" name="Grey6" r="0.4000000" rbin="0x3ECCCCCD" g="0.4000000" gbin="0x3ECCCCCD" b="0.4000000" bbin="0x3ECCCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="14" name="Grey7" r="0.3000000" rbin="0x3E99999A" g="0.3000000" gbin="0x3E99999A" b="0.3000000" bbin="0x3E99999A" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="15" name="Grey8" r="0.2000000" rbin="0x3E4CCCCD" g="0.2000000" gbin="0x3E4CCCCD" b="0.2000000" bbin="0x3E4CCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="16" name="Grey9" r="0.1000000" rbin="0x3DCCCCCD" g="0.1000000" gbin="0x3DCCCCCD" b="0.1000000" bbin="0x3DCCCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="32" name="Gray 0%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="33" name="Gray 5%" r="0.0500000" rbin="0x3D4CCCCD" g="0.0500000" gbin="0x3D4CCCCD" b="0.0500000" bbin="0x3D4CCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="34" name="Gray 10%" r="0.1000000" rbin="0x3DCCCCCD" g="0.1000000" gbin="0x3DCCCCCD" b="0.1000000" bbin="0x3DCCCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="35" name="Gray 15%" r="0.1500000" rbin="0x3E19999A" g="0.1500000" gbin="0x3E19999A" b="0.1500000" bbin="0x3E19999A" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="36" name="Gray 20%" r="0.2000000" rbin="0x3E4CCCCD" g="0.2000000" gbin="0x3E4CCCCD" b="0.2000000" bbin="0x3E4CCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="37" name="Gray 25%" r="0.2500000" rbin="0x3E800000" g="0.2500000" gbin="0x3E800000" b="0.2500000" bbin="0x3E800000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="38" name="Gray 30%" r="0.3000000" rbin="0x3E99999A" g="0.3000000" gbin="0x3E99999A" b="0.3000000" bbin="0x3E99999A" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="39" name="Gray 35%" r="0.3500000" rbin="0x3EB33333" g="0.3500000" gbin="0x3EB33333" b="0.3500000" bbin="0x3EB33333" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="40" name="Gray 40%" r="0.4000000" rbin="0x3ECCCCCD" g="0.4000000" gbin="0x3ECCCCCD" b="0.4000000" bbin="0x3ECCCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="41" name="Gray 45%" r="0.4500000" rbin="0x3EE66666" g="0.4500000" gbin="0x3EE66666" b="0.4500000" bbin="0x3EE66666" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="42" name="Gray 50%" r="0.5000000" rbin="0x3F000000" g="0.5000000" gbin="0x3F000000" b="0.5000000" bbin="0x3F000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="43" name="Gray 55%" r="0.5500000" rbin="0x3F0CCCCD" g="0.5500000" gbin="0x3F0CCCCD" b="0.5500000" bbin="0x3F0CCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="44" name="Gray 60%" r="0.6000000" rbin="0x3F19999A" g="0.6000000" gbin="0x3F19999A" b="0.6000000" bbin="0x3F19999A" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="45" name="Gray 65%" r="0.6500000" rbin="0x3F266666" g="0.6500000" gbin="0x3F266666" b="0.6500000" bbin="0x3F266666" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="46" name="Gray 70%" r="0.7000000" rbin="0x3F333333" g="0.7000000" gbin="0x3F333333" b="0.7000000" bbin="0x3F333333" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="47" name="Gray 75%" r="0.7500000" rbin="0x3F400000" g="0.7500000" gbin="0x3F400000" b="0.7500000" bbin="0x3F400000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="48" name="Gray 80%" r="0.8000000" rbin="0x3F4CCCCD" g="0.8000000" gbin="0x3F4CCCCD" b="0.8000000" bbin="0x3F4CCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="49" name="Gray 85%" r="0.8500000" rbin="0x3F59999A" g="0.8500000" gbin="0x3F59999A" b="0.8500000" bbin="0x3F59999A" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="50" name="Gray 90%" r="0.9000000" rbin="0x3F666666" g="0.9000000" gbin="0x3F666666" b="0.9000000" bbin="0x3F666666" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="51" name="Gray 95%" r="0.9500000" rbin="0x3F733333" g="0.9500000" gbin="0x3F733333" b="0.9500000" bbin="0x3F733333" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="52" name="Gray 100%" r="1.0000000" rbin="0x3F800000" g="1.0000000" gbin="0x3F800000" b="1.0000000" bbin="0x3F800000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="64" name="Red 0%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="65" name="Red 5%" r="0.0500000" rbin="0x3D4CCCCD" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="66" name="Red 10%" r="0.1000000" rbin="0x3DCCCCCD" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="67" name="Red 15%" r="0.1500000" rbin="0x3E19999A" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="68" name="Red 20%" r="0.2000000" rbin="0x3E4CCCCD" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="69" name="Red 25%" r="0.2500000" rbin="0x3E800000" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="70" name="Red 30%" r="0.3000000" rbin="0x3E99999A" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="71" name="Red 35%" r="0.3500000" rbin="0x3EB33333" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="72" name="Red 40%" r="0.4000000" rbin="0x3ECCCCCD" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="73" name="Red 45%" r="0.4500000" rbin="0x3EE66666" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="74" name="Red 50%" r="0.5000000" rbin="0x3F000000" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="75" name="Red 55%" r="0.5500000" rbin="0x3F0CCCCD" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="76" name="Red 60%" r="0.6000000" rbin="0x3F19999A" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="77" name="Red 65%" r="0.6500000" rbin="0x3F266666" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="78" name="Red 70%" r="0.7000000" rbin="0x3F333333" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="79" name="Red 75%" r="0.7500000" rbin="0x3F400000" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="80" name="Red 80%" r="0.8000000" rbin="0x3F4CCCCD" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="81" name="Red 85%" r="0.8500000" rbin="0x3F59999A" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="82" name="Red 90%" r="0.9000000" rbin="0x3F666666" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="83" name="Red 95%" r="0.9500000" rbin="0x3F733333" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="84" name="Red 100%" r="1.0000000" rbin="0x3F800000" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="96" name="Green 0%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="97" name="Green 5%" r="0.0000000" rbin="0x00000000" g="0.0500000" gbin="0x3D4CCCCD" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="98" name="Green 10%" r="0.0000000" rbin="0x00000000" g="0.1000000" gbin="0x3DCCCCCD" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="99" name="Green 15%" r="0.0000000" rbin="0x00000000" g="0.1500000" gbin="0x3E19999A" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="100" name="Green 20%" r="0.0000000" rbin="0x00000000" g="0.2000000" gbin="0x3E4CCCCD" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="101" name="Green 25%" r="0.0000000" rbin="0x00000000" g="0.2500000" gbin="0x3E800000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="102" name="Green 30%" r="0.0000000" rbin="0x00000000" g="0.3000000" gbin="0x3E99999A" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="103" name="Green 35%" r="0.0000000" rbin="0x00000000" g="0.3500000" gbin="0x3EB33333" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="104" name="Green 40%" r="0.0000000" rbin="0x00000000" g="0.4000000" gbin="0x3ECCCCCD" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="105" name="Green 45%" r="0.0000000" rbin="0x00000000" g="0.4500000" gbin="0x3EE66666" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="106" name="Green 50%" r="0.0000000" rbin="0x00000000" g="0.5000000" gbin="0x3F000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="107" name="Green 55%" r="0.0000000" rbin="0x00000000" g="0.5500000" gbin="0x3F0CCCCD" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="108" name="Green 60%" r="0.0000000" rbin="0x00000000" g="0.6000000" gbin="0x3F19999A" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="109" name="Green 65%" r="0.0000000" rbin="0x00000000" g="0.6500000" gbin="0x3F266666" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="110" name="Green 70%" r="0.0000000" rbin="0x00000000" g="0.7000000" gbin="0x3F333333" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="111" name="Green 75%" r="0.0000000" rbin="0x00000000" g="0.7500000" gbin="0x3F400000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="112" name="Green 80%" r="0.0000000" rbin="0x00000000" g="0.8000000" gbin="0x3F4CCCCD" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="113" name="Green 85%" r="0.0000000" rbin="0x00000000" g="0.8500000" gbin="0x3F59999A" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="114" name="Green 90%" r="0.0000000" rbin="0x00000000" g="0.9000000" gbin="0x3F666666" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="115" name="Green 95%" r="0.0000000" rbin="0x00000000" g="0.9500000" gbin="0x3F733333" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="116" name="Green 100%" r="0.0000000" rbin="0x00000000" g="1.0000000" gbin="0x3F800000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="128" name="Blue 0%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="129" name="Blue 5%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.0500000" bbin="0x3D4CCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="130" name="Blue 10%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.1000000" bbin="0x3DCCCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="131" name="Blue 15%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.1500000" bbin="0x3E19999A" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="132" name="Blue 20%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.2000000" bbin="0x3E4CCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="133" name="Blue 25%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.2500000" bbin="0x3E800000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="134" name="Blue 30%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.3000000" bbin="0x3E99999A" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="135" name="Blue 35%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.3500000" bbin="0x3EB33333" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="136" name="Blue 40%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.4000000" bbin="0x3ECCCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="137" name="Blue 45%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.4500000" bbin="0x3EE66666" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="138" name="Blue 50%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.5000000" bbin="0x3F000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="139" name="Blue 55%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.5500000" bbin="0x3F0CCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="140" name="Blue 60%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.6000000" bbin="0x3F19999A" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="141" name="Blue 65%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.6500000" bbin="0x3F266666" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="142" name="Blue 70%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.7000000" bbin="0x3F333333" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="143" name="Blue 75%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.7500000" bbin="0x3F400000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="144" name="Blue 80%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.8000000" bbin="0x3F4CCCCD" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="145" name="Blue 85%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.8500000" bbin="0x3F59999A" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="146" name="Blue 90%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.9000000" bbin="0x3F666666" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="147" name="Blue 95%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="0.9500000" bbin="0x3F733333" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="148" name="Blue 100%" r="0.0000000" rbin="0x00000000" g="0.0000000" gbin="0x00000000" b="1.0000000" bbin="0x3F800000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="254" name="Ground" r="1.0000000" rbin="0x3F800000" g="0.4000000" gbin="0x3ECCCCCD" b="0.0000000" bbin="0x00000000" a="1.0000000" abin="0x3F800000" />
+ <colorentry index="255" name="Sky" r="0.0000000" rbin="0x00000000" g="0.5000000" gbin="0x3F000000" b="1.0000000" bbin="0x3F800000" a="1.0000000" abin="0x3F800000" />
+</colortable>
