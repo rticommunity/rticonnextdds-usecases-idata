@@ -13,7 +13,8 @@
 /* $end IDATA_TEMPLATE_INCLUDE_BLOCK */
 /************************************************************************************/
 
-/* DDS Reader */
+/* DDS Participant and Reader */
+static DDS_DomainParticipant *participant = NULL;
 static Connext_OrientationDataReader *orientation_reader = NULL;
 
 /* Event handler variables */
@@ -39,7 +40,6 @@ PLUGIN_API void GetDataPointers( void* pInstrument )
   MyInstrument = pInstrument;
   
   /* DDS variables */
-  DDS_DomainParticipant *participant = NULL;
   DDS_Subscriber *subscriber = NULL;
   DDS_Topic *topic = NULL;
   DDS_DataReader *reader = NULL;
@@ -160,4 +160,8 @@ PLUGIN_API void CleanupData( void* pInstrument )
   /* $begin IDATA_TEMPLATE_CLEANUP_BLOCK */
   /* $end IDATA_TEMPLATE_CLEANUP_BLOCK */
   /***********************************************************************************/
+  if (participant != NULL) {
+    DDS_DomainParticipant_delete_contained_entities(participant);
+    DDS_DomainParticipantFactory_delete_participant(DDS_TheParticipantFactory, participant);
+  }
 }

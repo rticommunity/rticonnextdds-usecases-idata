@@ -18,12 +18,21 @@ MAKEFILE = IDataRTI.mak
 
 TARGET = IDataRTI.dll
 
+CONNEXT_GEN_FILES  = \
+  gen/Orientation_DataPlugin.c \
+  gen/Orientation_Data.c \
+  gen/Orientation_DataSupport.c \
+  gen/Orientation_Data.h \
+  gen/Orientation_DataPlugin.h \
+  gen/Orientation_DataSupport.h 
+
+
 # $begin IDATA_TEMPLATE_OBJFILES_BLOCK
 OBJECTFILES = \
 	IDataRTI.obj \
-  Orientation_Data.obj \
-  Orientation_DataPlugin.obj \
-  Orientation_DataSupport.obj
+  gen/Orientation_Data.obj \
+  gen/Orientation_DataPlugin.obj \
+  gen/Orientation_DataSupport.obj
 
 # $end IDATA_TEMPLATE_OBJFILES_BLOCK
 
@@ -40,6 +49,7 @@ LIBRARYFILES = \
 # $begin IDATA_TEMPLATE_INCLUDEPATH_BLOCK
 INCLUDEPATHS = \
 	-I$(IDATA_SDK) \
+  -I./gen \
   -I$(NDDSHOME)/include \
   -I$(NDDSHOME)/include/ndds
 
@@ -48,6 +58,7 @@ INCLUDEPATHS = \
 # $begin IDATA_TEMPLATE_LIBPATH_BLOCK
 LIBPATHS = /LIBPATH:$(NDDSHOME)\lib\i86Win32VS2017\
 # $end IDATA_TEMPLATE_LIBPATH_BLOCK
+
 
 # ****************************************************************************
 # COMPILER/LINKER SETTINGS
@@ -76,14 +87,15 @@ LINKERFLAGS = /DLL
 DEFAULT : ALL
 
 CLEAN : 
-	@del $(OBJECTFILES)
-	@del $(TARGET)
+	@if exist "IDataRTI.obj" del IDataRTI.obj
+  @if exist "gen" rmdir /S /Q gen
+	@if exist $(TARGET) del $(TARGET)
 
-ALL : $(TARGET)
+ALL : $(CONNEXT_GEN_FILES) $(TARGET)
 
 $(TARGET) : $(OBJECTFILES) $(MAKEFILE)
 	link.exe /OUT:$(TARGET) $(LINKERFLAGS) $(LIBPATHS) $(OBJECTFILES) $(LIBRARYFILES) $(IDATA_SDK)\IData.lib
-	@del $(OBJECTFILES)
+	@del IDataRTI.obj "gen\*.obj"
 	@del $*.exp
 	@del $*.lib
 	@echo Removed intermediate files
@@ -95,4 +107,13 @@ $(OBJECTFILES) : $(MAKEFILE)
 
 .cpp.obj:
 	cl.exe -c /Fo$@ $< $(COMPILERFLAGS) $(INCLUDEPATHS)
+  
+$(CONNEXT_GEN_FILES) : GENDIR RTIDDSGEN
+  :
+
+RTIDDSGEN : Orientation_Data.idl
+	rtiddsgen Orientation_Data.idl -replace -d gen -language C
+
+GENDIR: 
+  @if not exist "gen"  mkdir gen
 
