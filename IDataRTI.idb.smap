@@ -1,30 +1,32 @@
-0000005C: Gen0
-vertexArrayDataOffset: 0000491C
-bytecodeInfoOffset: 00004924
-variableListOffset: 00004934
-textureListOffset: 00004AF0
-dpiListOffset: 00004AF4
-sasListOffset: 00004AF8
-controlListOffset: 00004AFC
-actionListOffset: 00004B00
-logicOpcodesOffset: 00004B04
+0000005C: Gen0  palettesOffset
+palettesOffset: 0000005C
+vertexArrayDataOffset: 0000411C  vaCount: 1616  vaType: 4
+bytecodeInfoOffset: 00010B24
+variableListOffset: 00010B34
+textureListOffset: 00010D04
+dpiListOffset: 00010D08
+sasListOffset: 00010D0C
+controlListOffset: 00010D10
+actionListOffset: 00010D14
+logicOpcodesOffset: 00010D18
 exactFontListOffset: 00000000
-staticSectionCountOffset: 00004B08
-staticSectionOpcodesOffset: 00004B0C
-controlOpcodesOffset: 00004B0C
-sasOpcodesOffset: 00004B0C
-mainOpcodesOffset: 00005E74
-0000491C: Gen1
-00004924: Gen2
-00004AF0: Gen3
-00004AF4: Gen4
-00004AF8: Gen5
-00004AFC: Gen6
-00004B00: Gen7
-00004B08: Gen8
-00004B08: Gen9
-00004B0C: GenA
-00004B0C: GenB
-00004B0C: GenC
-00005E74: GenD
-000083DC: GenE
+controlOpcodesOffset: 00010D1C
+sasOpcodesOffset: 00010D1C
+attributeOffset: 00010D1C
+mainOpcodesOffset: 000123C0
+0000411C: Gen1 vertexArrayDataOffset
+00010B24: Gen2 bytecodeInfoOffset
+00010B34: Gen3 variableListOffset
+00010D04: Gen4 textureListOffset
+00010D08: Gen5 dpiListOffset
+00010D0C: Gen6 sasListOffset
+00010D10: Gen7 controlListOffset
+00010D14: Gen8 actionListOffset
+00010D18: Gen9 logicOpcodesOffset
+00010D1C: GenA exactFontListOffset
+00010D1C: GenB controlOpcodesOffset
+00010D1C: GenC sasOpcodesOffset
+00010D1C: GenD attributeOffset
+000123C0: GenE mainOpcodesOffset
+000139FC: GenF
+FileSize: 000139FC
